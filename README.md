@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👋 About Me:
 Hello, I'm Toukir Siddique<br>👨‍💻 A Software QA enthusiast.<br><br>⚡I have expertise in:<br>- Manual Testing<br>- API Testing<br>- Performance Testing<br><br>🌱 I am learning:<br>- DB Testing<br>- Security and Penetration Testing<br>- Selenium<br>- Appium<br><br><br>
 
 
