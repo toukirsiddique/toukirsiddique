@@ -1,5 +1,5 @@
 # 👋 About Me:
-Hello, I'm Toukir Siddique<br>👨‍💻 A Software QA enthusiast.<br><br>⚡I have expertise in:<br>- Manual Testing<br>- Web Automation using Page Object Model<br>- Selenium<br>- API Testing<br>- Performance Testing<br><br>🌱 I am learning:<br>- DB Testing<br>- Security and Penetration Testing<br>- Selenium<br>- Appium<br><br><br>
+Hello, I'm Toukir Siddique<br>👨‍💻 A Software QA enthusiast.<br><br>⚡I have expertise in:<br>- Manual Testing<br>- Web Automation using Page Object Model<br>- Selenium<br>- API Testing<br>- Performance Testing<br><br>🌱 I am learning:<br>- DB Testing<br>- Security and Penetration Testing<br>- Appium<br><br><br>
 
 
 ## 🌐 Socials:
